@@ -727,6 +727,16 @@ p {
     }
 /* End of Header */
 
+/* Hero section */
+/* #hero {
+    background-image: url(./Images/shadimg.png);
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    z-index: 1;
+} */
+/* End of Hero section */
+
     #services .service-bottom .service-item {
         flex-basis: 22%;
         margin: 1.5%;
